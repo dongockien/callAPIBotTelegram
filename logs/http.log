@@ -1,0 +1,294 @@
+{
+    "level": "info",
+    "method": "POST",
+    "path": "/api/v1/telegram/scheduler/start",
+    "query": "",
+    "client_ip": "::1",
+    "user_agent": "PostmanRuntime/7.45.0",
+    "referer": "",
+    "protocol": "HTTP/1.1",
+    "host": "localhost:8080",
+    "remote_addr": "[::1]:59887",
+    "request_uri": "/api/v1/telegram/scheduler/start",
+    "content_length": 0,
+    "headers": {
+        "Accept": [
+            "*/*"
+        ],
+        "Accept-Encoding": [
+            "gzip, deflate, br"
+        ],
+        "Connection": [
+            "keep-alive"
+        ],
+        "Content-Length": [
+            "0"
+        ],
+        "Postman-Token": [
+            "6558f6af-b66d-4de4-bac1-448f5491a9e8"
+        ],
+        "User-Agent": [
+            "PostmanRuntime/7.45.0"
+        ],
+        "X-Api-Key": [
+            "68a2c748-3d38-4fd6-82c8-f6d7a5ba3144"
+        ]
+    },
+    "request_body": {},
+    "response": {
+        "message": "Scheduler started"
+    },
+    "status_code": 200,
+    "duration_ms": 0,
+    "time": "2025-08-16T09:31:48+07:00",
+    "message": "HTTP Request Log"
+}
+{
+    "level": "info",
+    "method": "POST",
+    "path": "/api/v1/telegram/scheduler/stop",
+    "query": "",
+    "client_ip": "::1",
+    "user_agent": "PostmanRuntime/7.45.0",
+    "referer": "",
+    "protocol": "HTTP/1.1",
+    "host": "localhost:8080",
+    "remote_addr": "[::1]:59887",
+    "request_uri": "/api/v1/telegram/scheduler/stop",
+    "content_length": 5,
+    "headers": {
+        "Accept": [
+            "*/*"
+        ],
+        "Accept-Encoding": [
+            "gzip, deflate, br"
+        ],
+        "Connection": [
+            "keep-alive"
+        ],
+        "Content-Length": [
+            "5"
+        ],
+        "Content-Type": [
+            "application/x-www-form-urlencoded"
+        ],
+        "Postman-Token": [
+            "3e9138dc-776c-46e7-ab83-fc1b90198879"
+        ],
+        "User-Agent": [
+            "PostmanRuntime/7.45.0"
+        ],
+        "X-Api-Key": [
+            "68a2c748-3d38-4fd6-82c8-f6d7a5ba3144"
+        ]
+    },
+    "request_body": {
+        "file": ""
+    },
+    "response": {
+        "message": "Scheduler stopped"
+    },
+    "status_code": 200,
+    "duration_ms": 124,
+    "time": "2025-08-16T09:32:28+07:00",
+    "message": "HTTP Request Log"
+}
+{
+    "level": "info",
+    "method": "POST",
+    "path": "/api/v1/telegram/editMessage",
+    "query": "",
+    "client_ip": "::1",
+    "user_agent": "PostmanRuntime/7.45.0",
+    "referer": "",
+    "protocol": "HTTP/1.1",
+    "host": "localhost:8080",
+    "remote_addr": "[::1]:59887",
+    "request_uri": "/api/v1/telegram/editMessage",
+    "content_length": 97,
+    "headers": {
+        "Accept": [
+            "*/*"
+        ],
+        "Accept-Encoding": [
+            "gzip, deflate, br"
+        ],
+        "Connection": [
+            "keep-alive"
+        ],
+        "Content-Length": [
+            "97"
+        ],
+        "Content-Type": [
+            "application/json"
+        ],
+        "Postman-Token": [
+            "90bc24a3-74bb-4012-b2d7-a6aec58bc10e"
+        ],
+        "User-Agent": [
+            "PostmanRuntime/7.45.0"
+        ],
+        "X-Api-Key": [
+            "68a2c748-3d38-4fd6-82c8-f6d7a5ba3144"
+        ]
+    },
+    "request_body": {
+        "chat_id": -4956641603,
+        "message_id": 505,
+        "text": "Nội dung mới 3 ✅"
+    },
+    "response": {
+        "ok": true,
+        "result": {
+            "chat": {
+                "accepted_gift_types": {
+                    "limited_gifts": false,
+                    "premium_subscription": false,
+                    "unique_gifts": false,
+                    "unlimited_gifts": false
+                },
+                "all_members_are_administrators": true,
+                "id": -4956641603,
+                "title": "Test_Bot",
+                "type": "group"
+            },
+            "date": 1755229109,
+            "edit_date": 1755311588,
+            "from": {
+                "first_name": "Do Ngoc Kien",
+                "id": 8292655946,
+                "is_bot": true,
+                "username": "NgocKien_bot"
+            },
+            "message_id": 505,
+            "text": "Nội dung mới 3 ✅"
+        }
+    },
+    "status_code": 200,
+    "duration_ms": 429,
+    "time": "2025-08-16T09:33:08+07:00",
+    "message": "HTTP Request Log"
+}
+{
+    "level": "info",
+    "method": "POST",
+    "path": "/api/v1/telegram/sendAnimation",
+    "query": "",
+    "client_ip": "::1",
+    "user_agent": "PostmanRuntime/7.45.0",
+    "referer": "",
+    "protocol": "HTTP/1.1",
+    "host": "localhost:8080",
+    "remote_addr": "[::1]:59887",
+    "request_uri": "/api/v1/telegram/sendAnimation",
+    "content_length": 119,
+    "headers": {
+        "Accept": [
+            "*/*"
+        ],
+        "Accept-Encoding": [
+            "gzip, deflate, br"
+        ],
+        "Connection": [
+            "keep-alive"
+        ],
+        "Content-Length": [
+            "119"
+        ],
+        "Content-Type": [
+            "application/json"
+        ],
+        "Postman-Token": [
+            "7a548437-884b-4d9b-b8f5-cf5cd7af61d4"
+        ],
+        "User-Agent": [
+            "PostmanRuntime/7.45.0"
+        ],
+        "X-Api-Key": [
+            "68a2c748-3d38-4fd6-82c8-f6d7a5ba3144"
+        ]
+    },
+    "request_body": {
+        "caption": "Test animation",
+        "chat_id": "-4956641603",
+        "file_path": "C:/Users/Acer/Downloads/happy.gif"
+    },
+    "response": {
+        "ok": true,
+        "result": {
+            "animation": {
+                "duration": 1,
+                "file_id": "CgACAgUAAxkDAAICRWif7fv2bnZgZsCdUuevx7d0kEEXAAI5GAACyM_4VItSYLhdqCzoNgQ",
+                "file_name": "happy.gif.mp4",
+                "file_size": 15597,
+                "file_unique_id": "AgADORgAAsjP-FQ",
+                "height": 230,
+                "mime_type": "video/mp4",
+                "thumb": {
+                    "file_id": "AAMCBQADGQMAAgJFaJ_t-_ZudmBmwJ1S56_Ht3SQQRcAAjkYAALIz_hUi1JguF2oLOgBAAdtAAM2BA",
+                    "file_size": 14908,
+                    "file_unique_id": "AQADORgAAsjP-FRy",
+                    "height": 230,
+                    "width": 320
+                },
+                "thumbnail": {
+                    "file_id": "AAMCBQADGQMAAgJFaJ_t-_ZudmBmwJ1S56_Ht3SQQRcAAjkYAALIz_hUi1JguF2oLOgBAAdtAAM2BA",
+                    "file_size": 14908,
+                    "file_unique_id": "AQADORgAAsjP-FRy",
+                    "height": 230,
+                    "width": 320
+                },
+                "width": 320
+            },
+            "caption": "Test animation",
+            "chat": {
+                "accepted_gift_types": {
+                    "limited_gifts": false,
+                    "premium_subscription": false,
+                    "unique_gifts": false,
+                    "unlimited_gifts": false
+                },
+                "all_members_are_administrators": true,
+                "id": -4956641603,
+                "title": "Test_Bot",
+                "type": "group"
+            },
+            "date": 1755311611,
+            "document": {
+                "file_id": "CgACAgUAAxkDAAICRWif7fv2bnZgZsCdUuevx7d0kEEXAAI5GAACyM_4VItSYLhdqCzoNgQ",
+                "file_name": "happy.gif.mp4",
+                "file_size": 15597,
+                "file_unique_id": "AgADORgAAsjP-FQ",
+                "mime_type": "video/mp4",
+                "thumb": {
+                    "file_id": "AAMCBQADGQMAAgJFaJ_t-_ZudmBmwJ1S56_Ht3SQQRcAAjkYAALIz_hUi1JguF2oLOgBAAdtAAM2BA",
+                    "file_size": 14908,
+                    "file_unique_id": "AQADORgAAsjP-FRy",
+                    "height": 230,
+                    "width": 320
+                },
+                "thumbnail": {
+                    "file_id": "AAMCBQADGQMAAgJFaJ_t-_ZudmBmwJ1S56_Ht3SQQRcAAjkYAALIz_hUi1JguF2oLOgBAAdtAAM2BA",
+                    "file_size": 14908,
+                    "file_unique_id": "AQADORgAAsjP-FRy",
+                    "height": 230,
+                    "width": 320
+                }
+            },
+            "from": {
+                "first_name": "Do Ngoc Kien",
+                "id": 8292655946,
+                "is_bot": true,
+                "username": "NgocKien_bot"
+            },
+            "message_id": 581
+        }
+    },
+    "status_code": 200,
+    "duration_ms": 1537,
+    "time": "2025-08-16T09:33:31+07:00",
+    "message": "HTTP Request Log"
+}{"level":"info","method":"POST","path":"/api/v1/telegram/scheduler/start","query":"","client_ip":"::1","user_agent":"PostmanRuntime/7.45.0","referer":"","protocol":"HTTP/1.1","host":"localhost:8080","remote_addr":"[::1]:50175","request_uri":"/api/v1/telegram/scheduler/start","content_length":0,"headers":{"Accept":["*/*"],"Accept-Encoding":["gzip, deflate, br"],"Connection":["keep-alive"],"Content-Length":["0"],"Postman-Token":["bff3b80c-9028-4121-b963-754bab987a59"],"User-Agent":["PostmanRuntime/7.45.0"],"X-Api-Key":["68a2c748-3d38-4fd6-82c8-f6d7a5ba3144"]},"request_body":{},"response":{"message":"Scheduler started"},"status_code":200,"duration_ms":1,"time":"2025-08-19T11:49:56+07:00","message":"HTTP Request Log"}
+{"level":"info","method":"POST","path":"/api/v1/telegram/sendAnimation","query":"","client_ip":"::1","user_agent":"PostmanRuntime/7.45.0","referer":"","protocol":"HTTP/1.1","host":"localhost:8080","remote_addr":"[::1]:50175","request_uri":"/api/v1/telegram/sendAnimation","content_length":119,"headers":{"Accept":["*/*"],"Accept-Encoding":["gzip, deflate, br"],"Connection":["keep-alive"],"Content-Length":["119"],"Content-Type":["application/json"],"Postman-Token":["0a979b5e-d0ca-4ab7-98a7-8cfcd552d736"],"User-Agent":["PostmanRuntime/7.45.0"],"X-Api-Key":["68a2c748-3d38-4fd6-82c8-f6d7a5ba3144"]},"request_body":{"caption":"Test animation","chat_id":"-4956641603","file_path":"C:/Users/Acer/Downloads/happy.gif"},"response":{"ok":true,"result":{"animation":{"duration":1,"file_id":"CgACAgUAAxkDAAICWmikAoeRKSu-0kCkcicuhBw8T0x7AAJqGAACRVohVdwvvfKj3LLVNgQ","file_name":"happy.gif.mp4","file_size":15613,"file_unique_id":"AgADahgAAkVaIVU","height":230,"mime_type":"video/mp4","thumb":{"file_id":"AAMCBQADGQMAAgJaaKQCh5EpK77SQKRyJy6EHDxPTHsAAmoYAAJFWiFV3C-98qPcstUBAAdtAAM2BA","file_size":14908,"file_unique_id":"AQADahgAAkVaIVVy","height":230,"width":320},"thumbnail":{"file_id":"AAMCBQADGQMAAgJaaKQCh5EpK77SQKRyJy6EHDxPTHsAAmoYAAJFWiFV3C-98qPcstUBAAdtAAM2BA","file_size":14908,"file_unique_id":"AQADahgAAkVaIVVy","height":230,"width":320},"width":320},"caption":"Test animation","chat":{"accepted_gift_types":{"limited_gifts":false,"premium_subscription":false,"unique_gifts":false,"unlimited_gifts":false},"all_members_are_administrators":true,"id":-4956641603,"title":"Test_Bot","type":"group"},"date":1755579015,"document":{"file_id":"CgACAgUAAxkDAAICWmikAoeRKSu-0kCkcicuhBw8T0x7AAJqGAACRVohVdwvvfKj3LLVNgQ","file_name":"happy.gif.mp4","file_size":15613,"file_unique_id":"AgADahgAAkVaIVU","mime_type":"video/mp4","thumb":{"file_id":"AAMCBQADGQMAAgJaaKQCh5EpK77SQKRyJy6EHDxPTHsAAmoYAAJFWiFV3C-98qPcstUBAAdtAAM2BA","file_size":14908,"file_unique_id":"AQADahgAAkVaIVVy","height":230,"width":320},"thumbnail":{"file_id":"AAMCBQADGQMAAgJaaKQCh5EpK77SQKRyJy6EHDxPTHsAAmoYAAJFWiFV3C-98qPcstUBAAdtAAM2BA","file_size":14908,"file_unique_id":"AQADahgAAkVaIVVy","height":230,"width":320}},"from":{"first_name":"Do Ngoc Kien","id":8292655946,"is_bot":true,"username":"NgocKien_bot"},"message_id":602}},"status_code":200,"duration_ms":1771,"time":"2025-08-19T11:50:16+07:00","message":"HTTP Request Log"}
+{"level":"info","method":"POST","path":"/api/v1/telegram/sendAnimation","query":"","client_ip":"::1","user_agent":"PostmanRuntime/7.45.0","referer":"","protocol":"HTTP/1.1","host":"localhost:8080","remote_addr":"[::1]:50175","request_uri":"/api/v1/telegram/sendAnimation","content_length":119,"headers":{"Accept":["*/*"],"Accept-Encoding":["gzip, deflate, br"],"Connection":["keep-alive"],"Content-Length":["119"],"Content-Type":["application/json"],"Postman-Token":["2ab38da0-a7c0-4359-b5e7-9f0feb8f0dc7"],"User-Agent":["PostmanRuntime/7.45.0"],"X-Api-Key":["68a2c748-3d38-4fd6-82c8-f6d7a5ba3144"]},"request_body":{"caption":"Test animation","chat_id":"-4956641603","file_path":"C:/Users/Acer/Downloads/happy.gif"},"response":{"ok":true,"result":{"animation":{"duration":1,"file_id":"CgACAgUAAxkDAAICYmikApIhV_mZ1dCgt05d6edLSXNYAAJvGAACRVohVWKi9xXBYTCHNgQ","file_name":"happy.gif.mp4","file_size":15613,"file_unique_id":"AgADbxgAAkVaIVU","height":230,"mime_type":"video/mp4","thumb":{"file_id":"AAMCBQADGQMAAgJiaKQCkiFX-ZnV0KC3Tl3p50tJc1gAAm8YAAJFWiFVYqL3FcFhMIcBAAdtAAM2BA","file_size":14908,"file_unique_id":"AQADbxgAAkVaIVVy","height":230,"width":320},"thumbnail":{"file_id":"AAMCBQADGQMAAgJiaKQCkiFX-ZnV0KC3Tl3p50tJc1gAAm8YAAJFWiFVYqL3FcFhMIcBAAdtAAM2BA","file_size":14908,"file_unique_id":"AQADbxgAAkVaIVVy","height":230,"width":320},"width":320},"caption":"Test animation","chat":{"accepted_gift_types":{"limited_gifts":false,"premium_subscription":false,"unique_gifts":false,"unlimited_gifts":false},"all_members_are_administrators":true,"id":-4956641603,"title":"Test_Bot","type":"group"},"date":1755579027,"document":{"file_id":"CgACAgUAAxkDAAICYmikApIhV_mZ1dCgt05d6edLSXNYAAJvGAACRVohVWKi9xXBYTCHNgQ","file_name":"happy.gif.mp4","file_size":15613,"file_unique_id":"AgADbxgAAkVaIVU","mime_type":"video/mp4","thumb":{"file_id":"AAMCBQADGQMAAgJiaKQCkiFX-ZnV0KC3Tl3p50tJc1gAAm8YAAJFWiFVYqL3FcFhMIcBAAdtAAM2BA","file_size":14908,"file_unique_id":"AQADbxgAAkVaIVVy","height":230,"width":320},"thumbnail":{"file_id":"AAMCBQADGQMAAgJiaKQCkiFX-ZnV0KC3Tl3p50tJc1gAAm8YAAJFWiFVYqL3FcFhMIcBAAdtAAM2BA","file_size":14908,"file_unique_id":"AQADbxgAAkVaIVVy","height":230,"width":320}},"from":{"first_name":"Do Ngoc Kien","id":8292655946,"is_bot":true,"username":"NgocKien_bot"},"message_id":610}},"status_code":200,"duration_ms":3289,"time":"2025-08-19T11:50:28+07:00","message":"HTTP Request Log"}
+{"level":"info","method":"POST","path":"/api/v1/telegram/scheduler/stop","query":"","client_ip":"::1","user_agent":"PostmanRuntime/7.45.0","referer":"","protocol":"HTTP/1.1","host":"localhost:8080","remote_addr":"[::1]:50175","request_uri":"/api/v1/telegram/scheduler/stop","content_length":5,"headers":{"Accept":["*/*"],"Accept-Encoding":["gzip, deflate, br"],"Connection":["keep-alive"],"Content-Length":["5"],"Content-Type":["application/x-www-form-urlencoded"],"Postman-Token":["9edaac9b-7c9b-49ae-80dd-562fbdbfc02f"],"User-Agent":["PostmanRuntime/7.45.0"],"X-Api-Key":["68a2c748-3d38-4fd6-82c8-f6d7a5ba3144"]},"request_body":{"file":""},"response":{"message":"Scheduler stopped"},"status_code":200,"duration_ms":1,"time":"2025-08-19T11:50:32+07:00","message":"HTTP Request Log"}

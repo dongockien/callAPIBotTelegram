@@ -1,0 +1,861 @@
+2025-08-08T13:10:23+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T13:10:23+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T13:10:23+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T13:10:23+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T13:10:35+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T13:10:35+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T13:10:35+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T13:10:35+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T13:10:46+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T13:10:46+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T13:10:46+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T13:10:46+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T13:19:19+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T13:19:19+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T13:19:19+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T13:19:19+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T13:19:32+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T13:19:32+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T13:19:32+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T13:19:32+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:20:55+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:20:55+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:20:55+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:20:55+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:21:07+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:21:07+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:21:07+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:21:07+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:21:19+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:21:19+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:21:19+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:21:19+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:21:31+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:21:31+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:21:31+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:21:31+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:21:42+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:21:42+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:21:42+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:21:42+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:21:53+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:21:53+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:21:53+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:21:53+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:22:05+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:22:05+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:22:05+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:22:05+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:22:16+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:22:16+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:22:16+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:22:16+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:22:27+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:22:27+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:22:27+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:22:27+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:22:38+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:22:38+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:22:38+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:22:38+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:22:38+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T14:22:50+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:22:50+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:22:50+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:22:50+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:22:50+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T14:23:01+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:23:01+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:23:01+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T14:23:01+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:23:01+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:23:13+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:23:13+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:23:13+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:23:13+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:23:13+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T14:23:24+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T14:23:24+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:23:24+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:23:24+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:23:24+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:23:35+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T14:23:35+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:23:35+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:23:35+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:23:35+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:23:47+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T14:23:47+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T14:23:47+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T14:23:47+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T14:23:47+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T15:38:58+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T15:38:58+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T15:38:58+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T15:38:58+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T15:38:58+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T15:39:10+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T15:39:10+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T15:39:10+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T15:39:10+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T15:39:10+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T15:39:21+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T15:39:21+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T15:39:21+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T15:39:21+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T15:39:21+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T15:39:33+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T15:39:33+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T15:39:33+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T15:39:33+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T15:39:33+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:24:47+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:24:47+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:24:47+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:24:47+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:24:47+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:24:47+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:24:58+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:24:58+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:24:58+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:24:58+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:24:58+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:24:58+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:29:09+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:29:09+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:29:09+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:29:09+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:29:09+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:29:09+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:29:09+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T16:29:09+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:29:09+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:29:21+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:29:21+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:29:21+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:29:21+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:29:21+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:29:21+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:29:21+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T16:29:21+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:29:21+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-08T16:37:53+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T16:37:53+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:38:04+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T16:38:04+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T16:40:41+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-08T16:40:41+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:40:53+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:40:53+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T16:41:05+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:41:05+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T16:41:16+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:41:16+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-08T16:41:27+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T16:41:27+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T17:39:26+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T17:39:26+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-08T17:39:37+07:00 - https://httpbin.org/status/404 - 404
+2025-08-08T17:39:37+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-09T10:14:47+07:00 - https://httpbin.org/status/404 - 404
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-09T10:14:47+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-09T10:14:59+07:00 - https://httpbin.org/status/404 - 404
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-09T10:14:59+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users/15 - 404
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-09T10:32:55+07:00 - https://jsonplaceholder.typicode.com/users11 - 404
+2025-08-09T10:32:55+07:00 - https://httpbin.org/status/404 - 404
+2025-08-11T09:17:08+07:00 - https://httpbin.org/status/404 - 404
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users11 - 404
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users/15 - 404
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-11T09:17:08+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users/15 - 404
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-11T09:17:21+07:00 - https://jsonplaceholder.typicode.com/users11 - 404
+2025-08-11T09:17:21+07:00 - https://httpbin.org/status/404 - 404
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-11T14:54:41+07:00 - https://httpbin.org/status/404 - 404
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users/15 - 404
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users11 - 404
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-11T14:54:41+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users11 - 404
+2025-08-11T14:56:23+07:00 - https://httpbin.org/status/404 - 404
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-11T14:56:23+07:00 - https://jsonplaceholder.typicode.com/users/15 - 404
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users/15 - 404
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users11 - 404
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-11T14:57:03+07:00 - https://httpbin.org/status/404 - 404
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-11T14:57:03+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users11 - 404
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-11T14:57:47+07:00 - https://httpbin.org/status/404 - 404
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-11T14:57:47+07:00 - https://jsonplaceholder.typicode.com/users/15 - 404
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users/3 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users/8 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users11 - 404
+2025-08-11T15:21:40+07:00 - https://httpbin.org/status/404 - 404
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users/2 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/posts/15 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/posts/2 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/posts/5 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users/1 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/posts/12 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users/6 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users/4 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/comments/1 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/posts/1 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users/5 - 200
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/users/15 - 404
+2025-08-11T15:21:40+07:00 - https://jsonplaceholder.typicode.com/posts/13 - 200
+[Scheduler] 2025/08/11 16:47:30 scheduler.go:74: Scheduler initialized
+[Scheduler] 2025/08/11 16:51:14 scheduler.go:139: Scheduler started
+[Scheduler] 2025/08/11 16:51:14 scheduler.go:202: Scheduler runOnce started
+[Scheduler] 2025/08/11 16:51:17 scheduler.go:214: Error on apiCall #2 attempt 1/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/11 16:51:22 scheduler.go:214: Error on apiCall #2 attempt 2/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/11 16:51:27 scheduler.go:214: Error on apiCall #2 attempt 3/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/11 16:51:33 scheduler.go:214: Error on apiCall #3 attempt 1/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/11 16:51:38 scheduler.go:214: Error on apiCall #3 attempt 2/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/11 16:51:43 scheduler.go:214: Error on apiCall #3 attempt 3/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/11 16:51:48 scheduler.go:240: Scheduler runOnce completed
+[Scheduler] 2025/08/11 16:51:57 scheduler.go:156: Scheduler stopping...
+[Scheduler] 2025/08/11 16:51:57 scheduler.go:193: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/11 16:51:57 scheduler.go:158: Scheduler stopped
+[Scheduler] 2025/08/12 09:26:51 scheduler.go:75: Scheduler initialized
+[Scheduler] 2025/08/12 09:27:15 scheduler.go:147: Scheduler started
+[Scheduler] 2025/08/12 09:27:15 scheduler.go:210: Scheduler runOnce started
+[Scheduler] 2025/08/12 09:27:18 scheduler.go:222: Error on apiCall #2 attempt 1/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 09:27:23 scheduler.go:222: Error on apiCall #2 attempt 2/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 09:27:24 scheduler.go:164: Scheduler stopping...
+[Scheduler] 2025/08/12 09:27:28 scheduler.go:222: Error on apiCall #2 attempt 3/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 09:27:33 scheduler.go:222: Error on apiCall #3 attempt 1/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 09:27:38 scheduler.go:222: Error on apiCall #3 attempt 2/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 09:27:43 scheduler.go:222: Error on apiCall #3 attempt 3/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 09:27:49 scheduler.go:248: Scheduler runOnce completed
+[Scheduler] 2025/08/12 09:27:49 scheduler.go:201: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/12 09:27:49 scheduler.go:166: Scheduler stopped
+[Scheduler] 2025/08/12 10:48:20 scheduler.go:88: Scheduler initialized
+[Scheduler] 2025/08/12 10:52:59 scheduler.go:88: Scheduler initialized
+[Scheduler] 2025/08/12 10:55:53 scheduler.go:163: Scheduler started
+[Scheduler] 2025/08/12 10:55:53 scheduler.go:222: Scheduler runOnce started
+[Scheduler] 2025/08/12 10:55:55 scheduler.go:233: Error on apiCall #2 attempt 1/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 10:55:58 scheduler.go:179: Scheduler stopping...
+[Scheduler] 2025/08/12 10:56:00 scheduler.go:233: Error on apiCall #2 attempt 2/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 10:56:05 scheduler.go:233: Error on apiCall #2 attempt 3/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 10:56:11 scheduler.go:233: Error on apiCall #3 attempt 1/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 10:56:16 scheduler.go:233: Error on apiCall #3 attempt 2/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 10:56:21 scheduler.go:233: Error on apiCall #3 attempt 3/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 10:56:26 scheduler.go:258: Scheduler runOnce completed
+[Scheduler] 2025/08/12 10:56:26 scheduler.go:214: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/12 10:56:26 scheduler.go:181: Scheduler stopped
+[Scheduler] 2025/08/12 14:03:45 scheduler.go:88: Scheduler initialized
+[Scheduler] 2025/08/12 14:42:29 scheduler.go:88: Scheduler initialized
+[Scheduler] 2025/08/12 14:52:23 scheduler.go:163: Scheduler started
+[Scheduler] 2025/08/12 14:52:23 scheduler.go:222: Scheduler runOnce started
+[Scheduler] 2025/08/12 14:52:26 scheduler.go:233: Error on apiCall #2 attempt 1/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 14:52:31 scheduler.go:233: Error on apiCall #2 attempt 2/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 14:52:36 scheduler.go:179: Scheduler stopping...
+[Scheduler] 2025/08/12 14:52:36 scheduler.go:233: Error on apiCall #2 attempt 3/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 14:52:41 scheduler.go:233: Error on apiCall #3 attempt 1/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 14:52:46 scheduler.go:233: Error on apiCall #3 attempt 2/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 14:52:51 scheduler.go:233: Error on apiCall #3 attempt 3/3: open file error: open ./uploads/sample_audio.mp3: The system cannot find the file specified.
+[Scheduler] 2025/08/12 14:52:57 scheduler.go:258: Scheduler runOnce completed
+[Scheduler] 2025/08/12 14:52:57 scheduler.go:214: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/12 14:52:57 scheduler.go:181: Scheduler stopped
+[Scheduler] 2025/08/12 16:11:58 scheduler.go:87: Scheduler initialized
+[Scheduler] 2025/08/12 16:12:08 scheduler.go:193: Scheduler started
+[Scheduler] 2025/08/12 16:12:08 scheduler.go:258: Scheduler runOnce started at 16:12:08
+[Scheduler] 2025/08/12 16:12:10 scheduler.go:270: Error on apiCall #1 attempt 1/3: open file error: open ./uploads/sample_animation.gif: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:15 scheduler.go:270: Error on apiCall #1 attempt 2/3: open file error: open ./uploads/sample_animation.gif: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:16 scheduler.go:210: Scheduler stopping...
+[Scheduler] 2025/08/12 16:12:20 scheduler.go:270: Error on apiCall #1 attempt 3/3: open file error: open ./uploads/sample_animation.gif: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:26 scheduler.go:270: Error on apiCall #2 attempt 1/3: open file error: open ./uploads/sample_voice.ogg: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:31 scheduler.go:270: Error on apiCall #2 attempt 2/3: open file error: open ./uploads/sample_voice.ogg: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:36 scheduler.go:270: Error on apiCall #2 attempt 3/3: open file error: open ./uploads/sample_voice.ogg: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:41 scheduler.go:270: Error on apiCall #3 attempt 1/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:46 scheduler.go:270: Error on apiCall #3 attempt 2/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:51 scheduler.go:270: Error on apiCall #3 attempt 3/3: open file error: open ./uploads/sample_video.mp4: The system cannot find the file specified.
+[Scheduler] 2025/08/12 16:12:57 scheduler.go:292: Scheduler runOnce completed at 16:12:57
+[Scheduler] 2025/08/12 16:12:57 scheduler.go:247: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/12 16:12:57 scheduler.go:212: Scheduler stopped
+[Scheduler] 2025/08/12 16:24:33 scheduler.go:87: Scheduler initialized
+[Scheduler] 2025/08/12 16:24:45 scheduler.go:193: Scheduler started
+[Scheduler] 2025/08/12 16:24:45 scheduler.go:258: Scheduler runOnce started at 16:24:45
+[Scheduler] 2025/08/12 16:24:55 scheduler.go:292: Scheduler runOnce completed at 16:24:55
+[Scheduler] 2025/08/12 16:25:04 scheduler.go:210: Scheduler stopping...
+[Scheduler] 2025/08/12 16:25:04 scheduler.go:247: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/12 16:25:04 scheduler.go:212: Scheduler stopped
+[Scheduler] 2025/08/12 17:27:46 scheduler.go:87: Scheduler initialized
+[Scheduler] 2025/08/12 17:28:12 scheduler.go:193: Scheduler started
+[Scheduler] 2025/08/12 17:28:12 scheduler.go:258: Scheduler runOnce started at 17:28:12
+[Scheduler] 2025/08/12 17:28:24 scheduler.go:292: Scheduler runOnce completed at 17:28:24
+[Scheduler] 2025/08/12 17:28:24 scheduler.go:210: Scheduler stopping...
+[Scheduler] 2025/08/12 17:28:24 scheduler.go:247: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/12 17:28:24 scheduler.go:212: Scheduler stopped
+[Scheduler] 2025/08/13 09:29:33 scheduler.go:87: Scheduler initialized
+[Scheduler] 2025/08/13 09:32:32 scheduler.go:207: Scheduler started
+[Scheduler] 2025/08/13 09:32:32 scheduler.go:272: Scheduler runOnce started at 09:32:32
+[Scheduler] 2025/08/13 09:32:46 scheduler.go:306: Scheduler runOnce completed at 09:32:46
+[Scheduler] 2025/08/13 09:32:56 scheduler.go:224: Scheduler stopping...
+[Scheduler] 2025/08/13 09:32:56 scheduler.go:261: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/13 09:32:56 scheduler.go:226: Scheduler stopped
+[Scheduler] 2025/08/13 10:27:24 scheduler.go:103: Scheduler initialized
+[Scheduler] 2025/08/13 10:27:38 scheduler.go:218: Scheduler started
+[Scheduler] 2025/08/13 10:27:38 scheduler.go:285: Scheduler runOnce started at 10:27:38
+[Scheduler] 2025/08/13 10:27:39 scheduler.go:343: ✅ API call #0 (https://api.ipify.org?format=text) success, message/media sent
+[Scheduler] 2025/08/13 10:27:39 scheduler.go:302: Error calling API #1 attempt 1/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:27:44 scheduler.go:302: Error calling API #1 attempt 2/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:27:49 scheduler.go:302: Error calling API #1 attempt 3/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:27:54 scheduler.go:347: Scheduler runOnce completed at 10:27:54
+[Scheduler] 2025/08/13 10:32:38 scheduler.go:285: Scheduler runOnce started at 10:32:38
+[Scheduler] 2025/08/13 10:32:40 scheduler.go:343: ✅ API call #0 (https://api.ipify.org?format=text) success, message/media sent
+[Scheduler] 2025/08/13 10:32:40 scheduler.go:302: Error calling API #1 attempt 1/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:32:45 scheduler.go:302: Error calling API #1 attempt 2/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:32:50 scheduler.go:302: Error calling API #1 attempt 3/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:33:08 scheduler.go:347: Scheduler runOnce completed at 10:33:08
+[Scheduler] 2025/08/13 10:37:38 scheduler.go:285: Scheduler runOnce started at 10:37:38
+[Scheduler] 2025/08/13 10:37:40 scheduler.go:343: ✅ API call #0 (https://api.ipify.org?format=text) success, message/media sent
+[Scheduler] 2025/08/13 10:37:40 scheduler.go:302: Error calling API #1 attempt 1/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:37:45 scheduler.go:302: Error calling API #1 attempt 2/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:37:50 scheduler.go:302: Error calling API #1 attempt 3/3: Get "https://api.coindesk.com/v1/bpi/currentprice.json": dial tcp: lookup api.coindesk.com: no such host
+[Scheduler] 2025/08/13 10:37:55 scheduler.go:347: Scheduler runOnce completed at 10:37:55
+[Scheduler] 2025/08/13 10:38:36 scheduler.go:235: Scheduler stopping...
+[Scheduler] 2025/08/13 10:38:36 scheduler.go:274: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/13 10:38:36 scheduler.go:237: Scheduler stopped
+[Scheduler] 2025/08/13 11:01:21 scheduler.go:89: Scheduler initialized
+[Scheduler] 2025/08/13 11:01:21 scheduler.go:106: Scheduler started
+[Scheduler] 2025/08/13 11:01:21 scheduler.go:168: Scheduler runOnce started at 11:01:21
+[Scheduler] 2025/08/13 11:01:23 scheduler.go:233: ✅ API call (https://api.ipify.org?format=text) success, message/media sent
+[Scheduler] 2025/08/13 11:01:23 scheduler.go:236: Scheduler runOnce completed at 11:01:23
+[Scheduler] 2025/08/13 11:02:21 scheduler.go:168: Scheduler runOnce started at 11:02:21
+[Scheduler] 2025/08/13 11:02:22 scheduler.go:233: ✅ API call (https://date.nager.at/api/v3/NextPublicHolidaysWorldwide) success, message/media sent
+[Scheduler] 2025/08/13 11:02:22 scheduler.go:236: Scheduler runOnce completed at 11:02:22
+[Scheduler] 2025/08/13 11:02:51 scheduler.go:122: Scheduler stopping...
+[Scheduler] 2025/08/13 11:02:51 scheduler.go:157: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/13 11:02:51 scheduler.go:124: Scheduler stopped
+[Scheduler] 2025/08/13 11:09:42 scheduler.go:88: Scheduler initialized
+[Scheduler] 2025/08/13 11:10:31 scheduler.go:208: Scheduler started
+[Scheduler] 2025/08/13 11:10:31 scheduler.go:273: Scheduler runOnce started at 11:10:31
+[Scheduler] 2025/08/13 11:10:58 scheduler.go:307: Scheduler runOnce completed at 11:10:58
+[Scheduler] 2025/08/13 11:11:19 scheduler.go:225: Scheduler stopping...
+[Scheduler] 2025/08/13 11:11:19 scheduler.go:262: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/13 11:11:19 scheduler.go:227: Scheduler stopped
+[Scheduler] 2025/08/13 15:47:45 scheduler.go:88: Scheduler initialized
+[Scheduler] 2025/08/13 15:53:09 scheduler.go:208: Scheduler started
+[Scheduler] 2025/08/13 15:53:09 scheduler.go:273: Scheduler runOnce started at 15:53:09
+[Scheduler] 2025/08/13 15:53:24 scheduler.go:307: Scheduler runOnce completed at 15:53:24
+[Scheduler] 2025/08/13 15:53:31 scheduler.go:225: Scheduler stopping...
+[Scheduler] 2025/08/13 15:53:31 scheduler.go:262: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/13 15:53:31 scheduler.go:227: Scheduler stopped
+[Scheduler] 2025/08/13 16:26:02 scheduler.go:80: Scheduler initialized
+[Scheduler] 2025/08/13 16:36:34 scheduler.go:120: Scheduler started
+[Scheduler] 2025/08/13 16:36:34 scheduler.go:183: Scheduler runOnce started at 16:36:34
+[Scheduler] 2025/08/13 16:36:35 scheduler.go:196: ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/13 16:36:55 scheduler.go:196: ✅ API call #1 success: SendAnimation ok
+[Scheduler] 2025/08/13 16:36:57 scheduler.go:196: ✅ API call #2 success: SendVoice ok
+[Scheduler] 2025/08/13 16:37:00 scheduler.go:196: ✅ API call #3 success: SendVideo ok
+[Scheduler] 2025/08/13 16:37:04 scheduler.go:196: ✅ API call #4 success: Got 6 updates
+[Scheduler] 2025/08/13 16:37:04 scheduler.go:201: Scheduler runOnce completed at 16:37:04
+[Scheduler] 2025/08/13 16:37:15 scheduler.go:173: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/13 16:37:15 scheduler.go:138: Scheduler stopping...
+[Scheduler] 2025/08/13 16:37:15 scheduler.go:140: Scheduler stopped
+[Scheduler] 2025/08/13 17:19:57 scheduler.go:82: Scheduler initialized
+[Scheduler] 2025/08/13 17:20:11 scheduler.go:122: Scheduler started
+[Scheduler] 2025/08/13 17:20:11 scheduler.go:184: 🚀 Scheduler run #1 started at 17:20:11
+[Scheduler] 2025/08/13 17:20:12 scheduler.go:201: API call #0: 🚀 Scheduler Test Message at 2025-08-13T17:20:11+07:00
+[Scheduler] 2025/08/13 17:20:16 scheduler.go:201: API call #1: Sent GIF: ./uploads/happy.gif
+[Scheduler] 2025/08/13 17:20:17 scheduler.go:201: API call #2: Sent Voice: ./uploads/test.ogg
+[Scheduler] 2025/08/13 17:20:20 scheduler.go:201: API call #3: Sent Video: ./uploads/test_small.mp4
+[Scheduler] 2025/08/13 17:20:20 scheduler.go:201: API call #4: {"count":7,"updates":[{"update_id":614733374,"message":{"message_id":303,"from":{"id":5246401135,"is_bot":false,"first_name":"Do","last_name":"Kien","username":"ManhiKa","language_code":"vi"},"chat":{"id":-4956641603},"date":1755075149,"text":"Nút 1"}},{"update_id":614733375,"message":{"message_id":304,"from":{"id":5246401135,"is_bot":false,"first_name":"Do","last_name":"Kien","username":"ManhiKa","language_code":"vi"},"chat":{"id":-4956641603},"date":1755075153,"text":"Nxskkckde"}},{"update_id":614733376,"message":{"message_id":305,"from":{"id":5246401135,"is_bot":false,"first_name":"Do","last_name":"Kien","username":"ManhiKa","language_code":"vi"},"chat":{"id":-4956641603},"date":1755075154,"text":"Gndkdkkcc"}},{"update_id":614733377,"message":{"message_id":316,"from":{"id":5246401135,"is_bot":false,"first_name":"Do","last_name":"Kien","username":"ManhiKa","language_code":"vi"},"chat":{"id":-4956641603},"date":1755077244,"text":"Hello"}},{"update_id":614733378,"message":{"message_id":317,"from":{"id":5246401135,"is_bot":false,"first_name":"Do","last_name":"Kien","username":"ManhiKa","language_code":"vi"},"chat":{"id":-4956641603},"date":1755077280,"text":"Nút 1"}},{"update_id":614733379,"message":{"message_id":318,"from":{"id":5246401135,"is_bot":false,"first_name":"Do","last_name":"Kien","username":"ManhiKa","language_code":"vi"},"chat":{"id":-4956641603},"date":1755077360,"text":"Qfetheh"}},{"update_id":614733380,"message":{"message_id":330,"from":{"id":5246401135,"is_bot":false,"first_name":"Do","last_name":"Kien","username":"ManhiKa","language_code":"vi"},"chat":{"id":-4956641603},"date":1755078188,"text":"Nút 2"}}]}
+[Scheduler] 2025/08/13 17:20:21 scheduler.go:221: Scheduler run #1 completed at 17:20:21
+[Scheduler] 2025/08/13 17:20:36 scheduler.go:173: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/13 17:20:36 scheduler.go:138: Scheduler stopping...
+[Scheduler] 2025/08/13 17:20:36 scheduler.go:140: Scheduler stopped
+[Scheduler] 2025/08/13 17:23:09 scheduler.go:80: Scheduler initialized
+[Scheduler] 2025/08/13 17:23:20 scheduler.go:120: Scheduler started
+[Scheduler] 2025/08/13 17:23:20 scheduler.go:183: 🚀Scheduler runOnce started at 17:23:20
+[Scheduler] 2025/08/13 17:23:21 scheduler.go:196: ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/13 17:23:24 scheduler.go:196: ✅ API call #1 success: SendAnimation ok
+[Scheduler] 2025/08/13 17:23:25 scheduler.go:196: ✅ API call #2 success: SendVoice ok
+[Scheduler] 2025/08/13 17:23:32 scheduler.go:196: ✅ API call #3 success: SendVideo ok
+[Scheduler] 2025/08/13 17:23:32 scheduler.go:196: ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/13 17:23:33 scheduler.go:201: Scheduler runOnce completed at 17:23:33
+[Scheduler] 2025/08/13 17:23:58 scheduler.go:138: Scheduler stopping...
+[Scheduler] 2025/08/13 17:23:58 scheduler.go:173: Received stop signal, exiting runLoop
+[Scheduler] 2025/08/13 17:23:58 scheduler.go:140: Scheduler stopped
+[Scheduler] 2025/08/14 09:38:32 scheduler.go:81: Scheduler initialized
+[Scheduler] 2025/08/14 09:38:54 scheduler.go:121: 🚀Scheduler started
+[Scheduler] 2025/08/14 09:38:56 scheduler.go:200: ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 09:39:05 scheduler.go:200: ✅ API call #1 success: SendAnimation ok
+[Scheduler] 2025/08/14 09:39:07 scheduler.go:200: ✅ API call #2 success: SendVoice ok
+[Scheduler] 2025/08/14 09:39:25 scheduler.go:200: ✅ API call #3 success: SendVideo ok
+[Scheduler] 2025/08/14 09:39:26 scheduler.go:200: ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 09:39:27 scheduler.go:209: Scheduler runOnce completed at 09:39:27
+[Scheduler] 2025/08/14 09:39:31 scheduler.go:139: 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 09:39:31 scheduler.go:174: ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 09:39:31 scheduler.go:141: ✅ Scheduler stopped
+[Scheduler] 2025/08/14 10:13:54 scheduler.go:81: Scheduler initialized
+[Scheduler] 2025/08/14 10:14:03 scheduler.go:121: 🚀Scheduler started
+[Scheduler] 2025/08/14 10:14:04 scheduler.go:200: ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 10:14:08 scheduler.go:200: ✅ API call #1 success: SendAnimation ok
+[Scheduler] 2025/08/14 10:14:09 scheduler.go:200: ✅ API call #2 success: SendVoice ok
+[Scheduler] 2025/08/14 10:14:14 scheduler.go:200: ✅ API call #3 success: SendVideo ok
+[Scheduler] 2025/08/14 10:14:14 scheduler.go:200: ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 10:14:15 scheduler.go:209: Scheduler runOnce completed at 10:14:15
+[Scheduler] 2025/08/14 10:14:32 scheduler.go:139: 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 10:14:32 scheduler.go:174: ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 10:14:32 scheduler.go:141: ✅ Scheduler stopped
+[Scheduler] 2025/08/14 10:24:01 scheduler.go:78: Scheduler initialized
+[Scheduler] 2025/08/14 10:24:10 scheduler.go:119: 🚀 Scheduler started
+[Scheduler] 2025/08/14 10:24:11 scheduler.go:193: ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 10:24:15 scheduler.go:193: ✅ API call #1 success: SendAnimation ok
+[Scheduler] 2025/08/14 10:24:16 scheduler.go:193: ✅ API call #2 success: SendVoice ok
+[Scheduler] 2025/08/14 10:24:19 scheduler.go:193: ✅ API call #3 success: SendVideo ok
+[Scheduler] 2025/08/14 10:24:20 scheduler.go:193: ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 10:24:20 scheduler.go:202: Scheduler runOnce completed at 10:24:20
+[Scheduler] 2025/08/14 10:25:15 scheduler.go:135: 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 10:25:15 scheduler.go:162: ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 10:25:15 scheduler.go:137: ✅ Scheduler stopped
+[Scheduler] 2025/08/14 10:30:19 scheduler.go:79: Scheduler initialized
+[Scheduler] 2025/08/14 10:30:30 scheduler.go:121: 🚀 Scheduler started
+[Scheduler] 2025/08/14 10:30:31 scheduler.go:200: ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 10:30:38 scheduler.go:200: ✅ API call #1 success: sendAnimation sent: ./uploads/happy.gif
+[Scheduler] 2025/08/14 10:30:39 scheduler.go:200: ✅ API call #2 success: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 10:30:44 scheduler.go:200: ✅ API call #3 success: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 10:30:45 scheduler.go:200: ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 10:30:45 scheduler.go:209: Scheduler runOnce completed at 10:30:45
+[Scheduler] 2025/08/14 10:33:35 scheduler.go:79: Scheduler initialized
+[Scheduler] 2025/08/14 10:33:42 scheduler.go:121: 🚀 Scheduler started
+[Scheduler] 2025/08/14 10:33:43 scheduler.go:200: ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 10:33:46 scheduler.go:200: ✅ API call #1 success: sendAnimation sent: ./uploads/happy.gif
+[Scheduler] 2025/08/14 10:33:47 scheduler.go:200: ✅ API call #2 success: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 10:33:52 scheduler.go:200: ✅ API call #3 success: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 10:33:53 scheduler.go:200: ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 10:33:53 scheduler.go:210: Scheduler runOnce completed at 2025-08-14T10:33:53+07:00
+[Scheduler] 2025/08/14 10:34:06 scheduler.go:137: 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 10:34:06 scheduler.go:164: ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 10:34:06 scheduler.go:139: ✅ Scheduler stopped
+[Scheduler] 2025/08/14 10:56:00 scheduler.go:77: Scheduler initialized
+[Scheduler] 2025/08/14 10:56:18 scheduler.go:105: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/14 10:56:19 scheduler.go:105: [INF] ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 10:56:26 scheduler.go:105: [INF] ✅ API call #1 success: sendAnimation sent: ./uploads/happy.gif
+[Scheduler] 2025/08/14 10:56:27 scheduler.go:105: [INF] ✅ API call #2 success: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 10:56:33 scheduler.go:105: [INF] ✅ API call #3 success: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 10:56:33 scheduler.go:105: [INF] ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 10:56:34 scheduler.go:221: Scheduler runOnce completed at 2025-08-14T10:56:34+07:00
+[Scheduler] 2025/08/14 10:56:40 scheduler.go:105: [INF] ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 10:56:43 scheduler.go:105: [INF] ✅ API call #1 success: sendAnimation sent: ./uploads/happy.gif
+[Scheduler] 2025/08/14 10:56:44 scheduler.go:105: [INF] ✅ API call #2 success: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 10:56:51 scheduler.go:105: [INF] ✅ API call #3 success: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 10:56:52 scheduler.go:105: [INF] ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 10:56:52 scheduler.go:221: Scheduler runOnce completed at 2025-08-14T10:56:52+07:00
+[Scheduler] 2025/08/14 10:56:53 scheduler.go:105: [INF] ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 10:56:55 scheduler.go:105: [ERR] ⚠️ API attempt 1/3 failed: SendAnimation error (status=429): ❌ sendAnimation failed, status: 429 Too Many Requests, response: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 24","parameters":{"retry_after":24}}
+[Scheduler] 2025/08/14 10:56:59 scheduler.go:105: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 10:57:02 scheduler.go:105: [ERR] ⚠️ API attempt 2/3 failed: SendAnimation error (status=429): ❌ sendAnimation failed, status: 429 Too Many Requests, response: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 17","parameters":{"retry_after":17}}
+[Scheduler] 2025/08/14 10:57:08 scheduler.go:105: [ERR] ⚠️ API attempt 3/3 failed: SendAnimation error (status=429): ❌ sendAnimation failed, status: 429 Too Many Requests, response: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 11","parameters":{"retry_after":11}}
+[Scheduler] 2025/08/14 10:57:13 scheduler.go:105: [ERR] ❌ API call #1 failed: SendAnimation error (status=429): ❌ sendAnimation failed, status: 429 Too Many Requests, response: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 11","parameters":{"retry_after":11}}
+[Scheduler] 2025/08/14 10:57:23 scheduler.go:105: [INF] ✅ API call #2 success: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 10:57:25 scheduler.go:105: [INF] ✅ API call #3 success: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 10:57:26 scheduler.go:105: [INF] ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 10:57:26 scheduler.go:221: Scheduler runOnce completed at 2025-08-14T10:57:26+07:00
+[Scheduler] 2025/08/14 10:57:27 scheduler.go:105: [INF] ✅ API call #0 success: SendMessage ok
+[Scheduler] 2025/08/14 10:57:31 scheduler.go:105: [INF] ✅ API call #1 success: sendAnimation sent: ./uploads/happy.gif
+[Scheduler] 2025/08/14 10:57:33 scheduler.go:105: [INF] ✅ API call #2 success: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 10:57:35 scheduler.go:105: [INF] ✅ API call #3 success: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 10:57:39 scheduler.go:105: [INF] ✅ API call #4 success: Got 7 updates
+[Scheduler] 2025/08/14 10:57:40 scheduler.go:221: Scheduler runOnce completed at 2025-08-14T10:57:40+07:00
+[Scheduler] 2025/08/14 10:57:40 scheduler.go:105: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 10:57:40 scheduler.go:105: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/14 11:18:59 scheduler.go:77: Scheduler initialized
+[Scheduler] 2025/08/14 11:19:08 scheduler.go:105: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/14 11:19:09 scheduler.go:105: [INF] SendMessage: SendMessage ok
+[Scheduler] 2025/08/14 11:19:15 scheduler.go:105: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif
+[Scheduler] 2025/08/14 11:19:17 scheduler.go:105: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 11:19:22 scheduler.go:105: [INF] SendVideo: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 11:19:23 scheduler.go:105: [INF] GetUpdates: Got 7 updates
+[Scheduler] 2025/08/14 11:19:23 scheduler.go:253: Scheduler runOnce completed at 2025-08-14T11:19:23+07:00
+[Scheduler] 2025/08/14 11:19:30 scheduler.go:105: [INF] SendMessage: SendMessage ok
+[Scheduler] 2025/08/14 11:19:32 scheduler.go:105: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif
+[Scheduler] 2025/08/14 11:19:33 scheduler.go:105: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 11:19:40 scheduler.go:105: [INF] SendVideo: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 11:19:41 scheduler.go:105: [INF] GetUpdates: Got 7 updates
+[Scheduler] 2025/08/14 11:19:42 scheduler.go:253: Scheduler runOnce completed at 2025-08-14T11:19:42+07:00
+[Scheduler] 2025/08/14 11:19:48 scheduler.go:105: [INF] SendMessage: SendMessage ok
+[Scheduler] 2025/08/14 11:19:50 scheduler.go:105: [ERR] ⚠️ API attempt 1/3 failed: SendAnimation error (status=429): ❌ sendAnimation failed, status: 429 Too Many Requests, response: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 19","parameters":{"retry_after":19}}
+[Scheduler] 2025/08/14 11:19:56 scheduler.go:105: [ERR] ⚠️ API attempt 2/3 failed: SendAnimation error (status=429): ❌ sendAnimation failed, status: 429 Too Many Requests, response: {"ok":false,"error_code":429,"description":"Too Many Requests: retry after 13","parameters":{"retry_after":13}}
+[Scheduler] 2025/08/14 11:20:06 scheduler.go:105: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 11:20:10 scheduler.go:105: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif
+[Scheduler] 2025/08/14 11:20:11 scheduler.go:105: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg
+[Scheduler] 2025/08/14 11:20:14 scheduler.go:105: [INF] SendVideo: sendVideo sent: ./uploads/test_small.mp4
+[Scheduler] 2025/08/14 11:20:18 scheduler.go:105: [INF] GetUpdates: Got 7 updates
+[Scheduler] 2025/08/14 11:20:18 scheduler.go:253: Scheduler runOnce completed at 2025-08-14T11:20:18+07:00
+[Scheduler] 2025/08/14 11:20:18 scheduler.go:105: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 11:20:18 scheduler.go:105: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/14 11:32:58 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/14 11:37:29 scheduler.go:100: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/14 11:37:30 scheduler.go:100: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/14 11:37:33 scheduler.go:100: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/14 11:37:35 scheduler.go:100: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg (status=200)
+[Scheduler] 2025/08/14 11:37:41 scheduler.go:100: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 11:37:42 scheduler.go:100: [INF] SendVideo: sendVideo sent: ./uploads/test_small.mp4 (status=200)
+[Scheduler] 2025/08/14 11:37:42 scheduler.go:100: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 11:37:42 scheduler.go:100: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/14 14:26:36 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/14 15:11:01 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/14 15:11:14 scheduler.go:100: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/14 15:11:15 scheduler.go:100: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/14 15:11:18 scheduler.go:100: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/14 15:11:19 scheduler.go:100: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg (status=200)
+[Scheduler] 2025/08/14 15:11:21 scheduler.go:100: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 15:11:23 scheduler.go:100: [INF] SendVideo: stopped (status=0)
+[Scheduler] 2025/08/14 15:11:23 scheduler.go:100: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 15:11:23 scheduler.go:100: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/14 15:50:26 scheduler.go:100: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/14 15:50:27 scheduler.go:100: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/14 15:50:31 scheduler.go:100: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/14 15:50:34 scheduler.go:100: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/14 15:50:34 scheduler.go:100: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/14 15:50:34 scheduler.go:100: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/15 09:12:50 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/15 09:13:23 scheduler.go:100: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/15 09:13:25 scheduler.go:100: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/15 09:13:28 scheduler.go:100: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/15 09:13:29 scheduler.go:100: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg (status=200)
+[Scheduler] 2025/08/15 09:13:34 scheduler.go:100: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/15 09:13:43 scheduler.go:100: [INF] SendVideo: sendVideo sent: ./uploads/test_small.mp4 (status=200)
+[Scheduler] 2025/08/15 09:13:43 scheduler.go:100: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/15 09:13:43 scheduler.go:100: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/15 09:26:09 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/15 09:42:54 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/15 09:45:44 scheduler.go:100: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/15 09:45:44 scheduler.go:100: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/15 09:45:46 scheduler.go:100: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/15 09:45:47 scheduler.go:100: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg (status=200)
+[Scheduler] 2025/08/15 09:45:49 scheduler.go:100: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/15 09:45:51 scheduler.go:100: [INF] SendVideo: stopped (status=0)
+[Scheduler] 2025/08/15 09:45:51 scheduler.go:100: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/15 09:45:51 scheduler.go:100: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/15 10:36:25 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/15 10:37:56 scheduler.go:100: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/15 10:37:57 scheduler.go:100: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/15 10:37:59 scheduler.go:100: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/15 10:38:09 scheduler.go:100: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/15 10:38:09 scheduler.go:100: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/15 10:38:09 scheduler.go:100: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/15 11:29:45 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/15 14:08:10 scheduler.go:72: Scheduler initialized
+[Scheduler] 2025/08/15 14:43:17 scheduler.go:100: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/15 14:43:19 scheduler.go:100: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/15 14:43:25 scheduler.go:100: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/15 14:43:26 scheduler.go:100: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg (status=200)
+[Scheduler] 2025/08/15 14:43:31 scheduler.go:100: [INF] SendVideo: sendVideo sent: ./uploads/test_small.mp4 (status=200)
+[Scheduler] 2025/08/15 14:43:32 scheduler.go:100: [INF] GetUpdates: Got 8 updates (status=0)
+[Scheduler] 2025/08/15 14:43:32 scheduler.go:260: Scheduler runOnce completed at 2025-08-15T14:43:32+07:00
+[Scheduler] 2025/08/15 14:43:35 scheduler.go:100: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/15 14:43:35 scheduler.go:100: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/15 14:43:35 scheduler.go:100: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/15 15:31:16 scheduler.go:73: Scheduler initialized
+[Scheduler] 2025/08/15 15:31:24 scheduler.go:101: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/15 15:31:25 scheduler.go:101: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/15 15:31:29 scheduler.go:101: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/15 15:31:30 scheduler.go:101: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg (status=200)
+[Scheduler] 2025/08/15 15:31:30 scheduler.go:101: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/15 15:31:30 scheduler.go:101: [INF] SendVideo: stopped (status=0)
+[Scheduler] 2025/08/15 15:31:30 scheduler.go:101: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/15 15:31:30 scheduler.go:101: [INF] ✅ Scheduler stopped
+[Scheduler] 2025/08/15 15:36:26 scheduler.go:101: [INF] 🚀 Scheduler started
+[Scheduler] 2025/08/15 15:36:27 scheduler.go:101: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/15 15:36:33 scheduler.go:101: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/15 15:36:34 scheduler.go:101: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg (status=200)
+[Scheduler] 2025/08/15 15:36:39 scheduler.go:101: [INF] SendVideo: sendVideo sent: ./uploads/test_small.mp4 (status=200)
+[Scheduler] 2025/08/15 15:36:40 scheduler.go:101: [INF] GetUpdates: GetUpdates ok: 8 new (status=200)
+[Scheduler] 2025/08/15 15:36:40 scheduler.go:261: Scheduler runOnce completed at 2025-08-15T15:36:40+07:00
+[Scheduler] 2025/08/15 15:36:46 scheduler.go:101: [INF] SendMessage: SendMessage ok (status=200)
+[Scheduler] 2025/08/15 15:36:48 scheduler.go:101: [INF] SendGIF: sendAnimation sent: ./uploads/happy.gif (status=200)
+[Scheduler] 2025/08/15 15:36:49 scheduler.go:101: [INF] SendVoice: sendVoice sent: ./uploads/test.ogg (status=200)
+[Scheduler] 2025/08/15 15:36:52 scheduler.go:101: [INF] 🛑 Scheduler stopping...
+[Scheduler] 2025/08/15 15:36:53 scheduler.go:101: [INF] SendVideo: stopped (status=0)
+[Scheduler] 2025/08/15 15:36:53 scheduler.go:101: [INF] ⏹ Received stop signal, exiting runLoop
+[Scheduler] 2025/08/15 15:36:53 scheduler.go:101: [INF] ✅ Scheduler stopped
+{"chatID":-4956641603,"level":"info","msg":"Scheduler initialized","time":"2025-08-15T16:02:32+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Scheduler started","time":"2025-08-15T16:02:41+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Scheduler run started","time":"2025-08-15T16:02:41+07:00"}
+{"api":"GetUpdates","chatID":-4956641603,"level":"info","msg":"GetUpdates ok: 8 new","status":200,"time":"2025-08-15T16:02:42+07:00"}
+{"api":"SendMessage","chatID":-4956641603,"level":"info","msg":"SendMessage ok","status":200,"time":"2025-08-15T16:02:43+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Scheduler stopping...","time":"2025-08-15T16:03:21+07:00"}
+{"api":"SendGIF","chatID":-4956641603,"level":"info","msg":"SendGIF ok","status":200,"time":"2025-08-15T16:04:10+07:00"}
+{"api":"SendVoice","chatID":-4956641603,"level":"error","msg":"stopped","status":0,"time":"2025-08-15T16:04:10+07:00"}
+{"api":"SendVideo","chatID":-4956641603,"level":"error","msg":"stopped","status":0,"time":"2025-08-15T16:04:11+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Scheduler run completed","time":"2025-08-15T16:04:11+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Stop signal received, exiting loop","time":"2025-08-15T16:04:11+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Scheduler stopped","time":"2025-08-15T16:04:11+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Scheduler initialized","time":"2025-08-15T16:06:55+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"🚀 Scheduler started","time":"2025-08-15T16:07:07+07:00"}
+{"apiName":"SendMessage","chatID":-4956641603,"level":"info","msg":"SendMessage ok (status=200)","runCount":0,"time":"2025-08-15T16:07:08+07:00","timestamp":"2025-08-15T16:07:08+07:00"}
+{"apiName":"SendGIF","chatID":-4956641603,"level":"info","msg":"sendAnimation sent: ./uploads/happy.gif (status=200)","runCount":1,"time":"2025-08-15T16:07:11+07:00","timestamp":"2025-08-15T16:07:11+07:00"}
+{"apiName":"SendVoice","chatID":-4956641603,"level":"info","msg":"sendVoice sent: ./uploads/test.ogg (status=200)","runCount":2,"time":"2025-08-15T16:07:13+07:00","timestamp":"2025-08-15T16:07:13+07:00"}
+{"apiName":"SendVideo","chatID":-4956641603,"level":"info","msg":"sendVideo sent: ./uploads/test_small.mp4 (status=200)","runCount":3,"time":"2025-08-15T16:07:17+07:00","timestamp":"2025-08-15T16:07:17+07:00"}
+{"apiName":"GetUpdates","chatID":-4956641603,"level":"info","msg":"GetUpdates ok: 10 new (status=200)","runCount":4,"time":"2025-08-15T16:07:17+07:00","timestamp":"2025-08-15T16:07:17+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"🛑 Scheduler stopping...","time":"2025-08-15T16:07:22+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"⏹ Received stop signal, exiting runLoop","time":"2025-08-15T16:07:22+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"✅ Scheduler stopped","time":"2025-08-15T16:07:22+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Scheduler initialized","time":"2025-08-16T09:31:22+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"🚀 Scheduler started","time":"2025-08-16T09:31:48+07:00"}
+{"apiName":"SendMessage","chatID":-4956641603,"level":"info","msg":"SendMessage ok (status=200)","runCount":0,"time":"2025-08-16T09:31:50+07:00","timestamp":"2025-08-16T09:31:50+07:00"}
+{"apiName":"SendGIF","chatID":-4956641603,"level":"info","msg":"sendAnimation sent: ./uploads/happy.gif (status=200)","runCount":1,"time":"2025-08-16T09:32:13+07:00","timestamp":"2025-08-16T09:32:13+07:00"}
+{"apiName":"SendVoice","chatID":-4956641603,"level":"info","msg":"sendVoice sent: ./uploads/test.ogg (status=200)","runCount":2,"time":"2025-08-16T09:32:14+07:00","timestamp":"2025-08-16T09:32:14+07:00"}
+{"apiName":"SendVideo","chatID":-4956641603,"level":"info","msg":"sendVideo sent: ./uploads/test_small.mp4 (status=200)","runCount":3,"time":"2025-08-16T09:32:20+07:00","timestamp":"2025-08-16T09:32:20+07:00"}
+{"apiName":"GetUpdates","chatID":-4956641603,"level":"info","msg":"GetUpdates ok: 9 new (status=200)","runCount":4,"time":"2025-08-16T09:32:20+07:00","timestamp":"2025-08-16T09:32:20+07:00"}
+{"apiName":"SendMessage","chatID":-4956641603,"level":"info","msg":"SendMessage ok (status=200)","runCount":0,"time":"2025-08-16T09:32:27+07:00","timestamp":"2025-08-16T09:32:27+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"🛑 Scheduler stopping...","time":"2025-08-16T09:32:28+07:00"}
+{"apiName":"SendGIF","chatID":-4956641603,"level":"info","msg":"stopped (status=0)","runCount":1,"time":"2025-08-16T09:32:28+07:00","timestamp":"2025-08-16T09:32:28+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"⏹ Received stop signal, exiting runLoop","time":"2025-08-16T09:32:28+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"✅ Scheduler stopped","time":"2025-08-16T09:32:28+07:00"}
+{"chatID":-4956641603,"level":"info","msg":"Scheduler initialized","time":"2025-08-19T11:49:32+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"🚀 Scheduler started","time":"2025-08-19T11:49:56+07:00"}
+{"apiName":"SendMessage","chatID":-4956641603,"level":"info","msg":"SendMessage ok (status=200)","runCount":0,"time":"2025-08-19T11:49:57+07:00","timestamp":"2025-08-19T11:49:57+07:00"}
+{"apiName":"SendGIF","chatID":-4956641603,"level":"info","msg":"sendAnimation sent: ./uploads/happy.gif (status=200)","runCount":1,"time":"2025-08-19T11:50:00+07:00","timestamp":"2025-08-19T11:50:00+07:00"}
+{"apiName":"SendVoice","chatID":-4956641603,"level":"info","msg":"sendVoice sent: ./uploads/test.ogg (status=200)","runCount":2,"time":"2025-08-19T11:50:01+07:00","timestamp":"2025-08-19T11:50:01+07:00"}
+{"apiName":"SendVideo","chatID":-4956641603,"level":"info","msg":"sendVideo sent: ./uploads/test_small.mp4 (status=200)","runCount":3,"time":"2025-08-19T11:50:09+07:00","timestamp":"2025-08-19T11:50:09+07:00"}
+{"apiName":"GetUpdates","chatID":-4956641603,"level":"info","msg":"GetUpdates ok: 11 new (status=200)","runCount":4,"time":"2025-08-19T11:50:10+07:00","timestamp":"2025-08-19T11:50:10+07:00"}
+{"apiName":"SendMessage","chatID":-4956641603,"level":"info","msg":"SendMessage ok (status=200)","runCount":0,"time":"2025-08-19T11:50:16+07:00","timestamp":"2025-08-19T11:50:16+07:00"}
+{"apiName":"SendGIF","chatID":-4956641603,"level":"info","msg":"sendAnimation sent: ./uploads/happy.gif (status=200)","runCount":1,"time":"2025-08-19T11:50:18+07:00","timestamp":"2025-08-19T11:50:18+07:00"}
+{"apiName":"SendVoice","chatID":-4956641603,"level":"info","msg":"sendVoice sent: ./uploads/test.ogg (status=200)","runCount":2,"time":"2025-08-19T11:50:23+07:00","timestamp":"2025-08-19T11:50:23+07:00"}
+{"apiName":"SendVideo","chatID":-4956641603,"level":"info","msg":"sendVideo sent: ./uploads/test_small.mp4 (status=200)","runCount":3,"time":"2025-08-19T11:50:26+07:00","timestamp":"2025-08-19T11:50:26+07:00"}
+{"apiName":"GetUpdates","chatID":-4956641603,"level":"info","msg":"GetUpdates ok: 11 new (status=200)","runCount":4,"time":"2025-08-19T11:50:28+07:00","timestamp":"2025-08-19T11:50:28+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"🛑 Scheduler stopping...","time":"2025-08-19T11:50:32+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"⏹ Received stop signal, exiting runLoop","time":"2025-08-19T11:50:32+07:00"}
+{"chatID":-4956641603,"fields.level":"INF","level":"info","msg":"✅ Scheduler stopped","time":"2025-08-19T11:50:32+07:00"}

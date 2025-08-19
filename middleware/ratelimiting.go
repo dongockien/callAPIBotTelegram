@@ -1,0 +1,76 @@
+package middleware
+
+import (
+	"log"
+	"net/http"
+	"sync"
+	"time"
+
+	"github.com/gin-gonic/gin"
+	"golang.org/x/time/rate"
+)
+
+type Client struct {
+	limiter  *rate.Limiter
+	lastSeen time.Time
+}
+
+var (
+	mu      sync.Mutex
+	clients = make(map[string]*Client)
+)
+
+func getClientIP(ctx *gin.Context) string {
+	ip := ctx.ClientIP()
+	if ip == "" {
+		ip = ctx.Request.RemoteAddr
+	}
+	return ip
+}
+
+func getRateLimiter(ip string) *rate.Limiter {
+	mu.Lock()
+	defer mu.Unlock()
+	client, exists := clients[ip]
+	if !exists {
+		limiter := rate.NewLimiter(5, 15) // 5 request/sec, brust 15
+		newClient := &Client{limiter, time.Now()}
+		clients[ip] = newClient
+		
+		return limiter
+	}
+
+
+	client.lastSeen = time.Now()
+	return client.limiter
+}
+
+func CleanupClients(){
+	for {
+		time.Sleep(time.Minute)
+		mu.Lock()
+for ip, client := range clients {
+	if time.Since(client.lastSeen) > 3 * time.Minute{
+		delete(clients, ip)
+	}
+}
+		mu.Unlock()
+	}
+}
+
+// ab -n 20 -c 1 -H "X-API-Key: 68a2c748-3d38-4fd6-82c8-f6d7a5ba3144" http://localhost:8080/api/v1/categories/golang
+func RateLimitingMiddleware() gin.HandlerFunc {
+	return func(ctx *gin.Context) {
+		ip := getClientIP(ctx)
+		log.Println("IP Addres", ip) // ::1 <=> 127.0.0.1
+		limiter := getRateLimiter(ip)
+		if !limiter.Allow(){
+			ctx.AbortWithStatusJSON(http.StatusTooManyRequests, gin.H{
+				"error": "Too many request",
+				"message": "Bạn đã gửi quá nhiều request, Háy thử lại sau",
+			})
+			return 
+		}
+		ctx.Next()
+	}
+}
